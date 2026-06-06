@@ -1,7 +1,4 @@
-Bienvenue  dans notre projet gestion de pharmacie uk.
+Bienvenue dans notre projet gestion-pharmacie-uk.
 
 
-
-Notre projet gestion de pharmacie uk nous montre ce qui se passe dans une pharmacie entre les clients
-le vendeur et le médicament.
-
+Ce projet nous montre ce qui se passe entre le client la pharmacie et les médicaments.
